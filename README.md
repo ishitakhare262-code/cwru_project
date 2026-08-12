@@ -17,3 +17,9 @@ This repository contains Python scripts for analyzing drive-end bearing faults u
 ```bash
 python inspect_data.py
 python step2_plot_time.py
+## Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/ishitakhare262-code/cwru_project.git](https://github.com/ishitakhare262-code/cwru_project.git)
+   cd cwru_project
